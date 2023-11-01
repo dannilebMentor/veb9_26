@@ -1,0 +1,27 @@
+
+/*Ваши стили*/
+.dannileb-image{
+    background-color: grey;
+}
+.dannileb-text{
+    color: white;
+}
+.dannileb-sign{
+    color:blueviolet;
+}
+.dannileb-sign:hover{
+    color: violet;
+}
+
+.EgorPre-image{
+    background-color: grey;
+}
+.EgorPre-text{
+    color: white;
+}
+.EgorPre-sign{
+    color:red
+}
+.EgorPre-sign:hover{
+    color: green;
+}
