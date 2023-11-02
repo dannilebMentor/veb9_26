@@ -13,6 +13,18 @@
     color: violet;
 }
 
+.nastyabach-image{
+    background-color: white;
+}
+
+.nastyabach-text{
+    color: black;
+}
+
+.nastyabach-sign{
+    color: blue;
+}
+
 .EgorPre-image{
     background-color: grey;
 }
@@ -51,4 +63,3 @@
     color: violet;
 
 }
-
