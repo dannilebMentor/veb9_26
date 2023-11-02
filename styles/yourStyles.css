@@ -12,3 +12,16 @@
 .dannileb-sign:hover{
     color: violet;
 }
+
+.EgorPre-image{
+    background-color: grey;
+}
+.EgorPre-text{
+    color: white;
+}
+.EgorPre-sign{
+    color:rgb(43, 220, 226);
+}
+.EgorPre-sign:hover{
+    color: rgb(134, 238, 130);
+}
