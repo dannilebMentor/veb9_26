@@ -12,3 +12,16 @@
 .dannileb-sign:hover{
     color: violet;
 }
+.xenon-image{
+    background: rgb(134,3,3);
+    background: linear-gradient(90deg, rgba(134,3,3,1) 0%, rgba(255,165,0,1) 42%, rgba(255,0,62,1) 100%);
+}
+.xenon-text{
+    color: white;
+}
+.xenon-sign{
+    color:blueviolet;
+}
+.xenon-sign:hover{
+    color: violet;
+}
